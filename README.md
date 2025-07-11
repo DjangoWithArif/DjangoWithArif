@@ -1,12 +1,19 @@
-# 👋 Hi, I'm Md. Ariful — **DjangoWithArif**!
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Md. Ariful
+</h1>
+<h3 align="center"> aka <i>DjangoWithArif</i> | Data & Django Enthusiast</h3>
 
-Welcome to my GitHub profile!
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/djangowitharif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arif@thevowtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🛠️ What I Do
 
-I’ve been working on Upwork since 2012, specializing in **lead generation**, **web scraping**, and **SEO**. My work focuses on accuracy, efficiency, and helping clients reach their outreach and marketing goals through verified data.
+I’ve been working on Upwork since 2012, specializing in **lead generation**, **web scraping**, and **SEO**. I help businesses grow by sourcing accurate B2B data, optimizing online visibility, and automating research tasks using modern Python tools.
 
 ---
 
@@ -18,19 +25,42 @@ I’ve been working on Upwork since 2012, specializing in **lead generation**, *
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰 Tech Stack & Tools
 
-- **Lead Generation & SEO:** 12+ years of experience
-- **Web Scraping & Automation:** Python, BeautifulSoup, Pandas, Selenium
-- **Full Stack Development (Learning):** Python, Django, React
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lead Generation-FF6F00?style=for-the-badge"/>
+
+---
+
+## 📌 Notable Highlights
+
+- ✅ 12+ years on Upwork with 100% Job Success Score
+- ✅ Delivered 72+ projects in B2B lead generation & SEO
+- ✅ Currently building personal projects using Django & React
 
 ---
 
 ## 🌍 Connect With Me
 
-- [Upwork](https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8)  
-- [LinkedIn](https://www.linkedin.com/in/djangowitharif/)
+<p>
+  <a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/djangowitharif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-_Thanks for visiting! If you’re interested in collaboration or have a project idea, feel free to connect!_
+<p align="center">
+  <b>Thanks for visiting! If you’re interested in collaboration or have a project idea, feel free to connect!</b>
+</p>
+
+---
+
+<p align="center">
+  <b>📧 Direct Contact: <a href="mailto:arif@thevowtech.com">arif@thevowtech.com</a></b>
+</p>
