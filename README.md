@@ -27,14 +27,21 @@ I’ve been working on Upwork since 2012, specializing in **lead generation**, *
 
 ## 🧰 Tech Stack & Tools
 
-<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a/
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a/
-<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Lead Generation-FF6F00?style=for-the-badge"/></a/
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
+
+<a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Lead Generation-FF6F00?style=for-the-badge"/></a>
 
 ---
 
