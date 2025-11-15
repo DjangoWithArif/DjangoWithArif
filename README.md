@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/djangowitharif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/journeyofturtle/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arif@thevowtech.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -79,7 +79,7 @@ I’ve been working on Upwork since 2012, specializing in **lead generation**, *
 
 <p>
   <a href="https://www.upwork.com/freelancers/~01ce8b32dec9bbe8f8"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/djangowitharif/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/journeyofturtle/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
