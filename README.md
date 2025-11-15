@@ -53,6 +53,28 @@ I’ve been working on Upwork since 2012, specializing in **lead generation**, *
 
 ---
 
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DjangoWithArif&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjangoWithArif&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" height="180" />
+
+</div>
+
+<!-- GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DjangoWithArif&theme=tokyonight&hide_border=true&border_radius=20" height="200"/>
+</div>
+
+---
+
+
+
 ## 🌍 Connect With Me
 
 <p>
